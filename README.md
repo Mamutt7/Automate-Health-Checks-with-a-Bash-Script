@@ -10,3 +10,5 @@ Your manager wants you to regularly check the system health of a RHEL server. In
 
 ### Task 1: Create a New Bash Script
 Step 1: Switch to your home directory (if not already there)
+![image](https://github.com/user-attachments/assets/3e3ee8e5-5f31-4cb5-a992-5e00be65ea80)
+
