@@ -19,3 +19,9 @@ Task 2: Write the Health Check Script
 ![image](https://github.com/user-attachments/assets/a67d2be4-d772-4425-a13f-996df24a6354)
 
 Task 3: Make the Script Executable
+![image](https://github.com/user-attachments/assets/7db68b8b-1b49-468b-8628-386e2abc6ce7)
+
+Task 4: Run the Script
+![image](https://github.com/user-attachments/assets/5c8b7927-24bd-4582-af05-e4f5970f3abc)
+
+
